@@ -1,0 +1,14 @@
+*.tex
+*.bbl
+*.swp
+*checkpoints*
+*.DS_*tore
+*.log
+*.pyc
+*.egg-info
+*.tif*
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
